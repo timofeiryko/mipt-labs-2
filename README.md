@@ -8,4 +8,5 @@ conda env create -f environment.yml
 
 Ссылки на просмотр ноутбуков через NBViewer:
 
-- - [2.1.2. Определение 𝐶𝑝/𝐶𝑣 методом изобарического расширения](https://nbviewer.org/github/timofeiryko/mipt-labs-2/blob/master/2.1.2/main.ipynb)
+- [2.1.2. Определение 𝐶𝑝/𝐶𝑣 методом изобарического расширения](https://nbviewer.org/github/timofeiryko/mipt-labs-2/blob/master/2.1.2/main.ipynb)
+- [2.2.5. Определение вязкости жидкости по скорости истечения через капилляр](https://nbviewer.org/github/timofeiryko/mipt-labs-2/blob/master/2.2.5/main.ipynb)
